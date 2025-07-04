@@ -344,7 +344,7 @@ section .title::after{
 }
 
 .skills .skills-content .right .line.java::before{
-    width: 60%;
+    width: 65%;
 }
 
 .skills .skills-content .right .line.mysql::before{
@@ -359,7 +359,7 @@ section .title::after{
     width: 70%;
 }
 .skills .skills-content .right .line.css::before{
-    width: 70%;
+    width: 65%;
 }
 .skills .skills-content .right .line.js::before{
     width: 50%;
