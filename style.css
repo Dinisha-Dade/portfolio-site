@@ -343,25 +343,25 @@ section .title::after{
 
 }
 
-.skills .skills-content .right .Java::before{
+.skills .skills-content .right .java::before{
     width: 65%;
 }
 
-.skills .skills-content .right .MySQL::before{
+.skills .skills-content .right .mysql::before{
     width: 75%;
 }
 
-.skills .skills-content .right .Power BI::before{
+.skills .skills-content .right .power-bi::before{
     width: 60%;
 }
 
-.skills .skills-content .right .Html::before{
+.skills .skills-content .right .html::before{
     width: 70%;
 }
-.skills .skills-content .right .CSS::before{
+.skills .skills-content .right .css::before{
     width: 65%;
 }
-.skills .skills-content .right .JS::before{
+.skills .skills-content .right .js::before{
     width: 50%;
 }
 
